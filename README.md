@@ -44,4 +44,4 @@ Make sure you have **Python 3.x** and **Pygame** installed.
    ```
 
 ## 📜 Credits
-This game was built using the step-by-step guidance and assets from the [Clear Code YouTube Channel](https://youtube.com). Huge thanks to them for the incredible educational resource!
+This game was built using the step-by-step guidance and assets from the [Clear Code YouTube Channel][(https://www.youtube.com/watch?v=QU1pPzEGrqw). Huge thanks to them for the incredible educational resource!
