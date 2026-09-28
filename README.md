@@ -6,7 +6,7 @@ A 2D top-down action RPG built in Python using **Pygame**. This project was crea
 
 | Action | Key Binding |
 | :--- | :--- |
-| **Movement** | Arrow Keys (or WASD depending on config) |
+| **Movement** | Arrow Keys |
 | **Weapon Attack** | `Spacebar` |
 | **Magic Spell / Heal** | `Left Ctrl` |
 | **Cycle Weapons** | `Q` |
